@@ -1,0 +1,16 @@
+{
+"users":[
+{ "id":1, "name":"Monica Cruz", "username":"mcruzr", "email":"mcruzr9@hotmail.com", "image":"https://i.ibb.co/ZH73560/cody.jpg"},
+{ "id":2, "name":"Atenea Cruz", "username":"mcruzr", "email":"mcruzr9@hotmail.com", "image":"https://i.ibb.co/ZH73560/cody.jpg"},
+{ "id":3, "name":"Matea Cruz", "username":"mcruzr", "email":"mcruzr9@hotmail.com", "image":"https://i.ibb.co/ZH73560/cody.jpg"}
+],
+  "posts": [
+    { "id": 1, "title": "¿Por qué adoptar animales?", "body":"Porque son seres que necesitan amor...", "userId":1 },
+    { "id": 2, "title": "¿Que pienso del calentamiento global?", "body":"Es un problema por comer animales...", "userId":1 },
+    { "id": 2, "title": "¿Como crear mi propia empresa?", "body":"antes deberias saber que...", "userId":2 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
